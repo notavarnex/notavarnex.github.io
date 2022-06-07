@@ -1,0 +1,10 @@
+html {
+	justify-content: center;
+	display: flex;
+	margin: auto;
+	font-family: monospace;
+}
+
+body {
+	width: 400px;
+}
