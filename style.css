@@ -7,4 +7,10 @@ html {
 
 body {
 	width: 400px;
+	color: #fff;
+	background: #12161a
+}
+a {
+	color: #d97d73;
+	text-decoration: none;
 }
