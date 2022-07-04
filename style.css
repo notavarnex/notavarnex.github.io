@@ -8,9 +8,13 @@ html {
 body {
 	width: 400px;
 	color: #fff;
-	background: #12161a;
+	background: #1C1C1C;
 }
 a {
 	color: #d97d73;
 	text-decoration: none;
+}
+
+hr {
+	color: #2F353B;
 }
