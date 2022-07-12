@@ -1,20 +1,16 @@
-html {
-	justify-content: center;
-	display: flex;
-	margin: auto;
-	font-family: monospace;
-}
-
 body {
-	width: 400px;
-	color: #fff;
-	background: #1C1C1C;
-}
-a {
-	color: #d97d73;
-	text-decoration: none;
+    margin: 5em auto;
+    font: 18px monospace;
+    background-color: #040406;
+    color: #fff;
+    max-width: 30em;
 }
 
-hr {
-  color: #363636;
+a {
+    color: #fff;
+    text-decoration: underline #d97d73;
+}
+
+footer {
+    margin-top: 2em;
 }
